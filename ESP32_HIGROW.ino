@@ -101,7 +101,7 @@ void reconnect() {
     // Create a random client ID
     String clientId = "gustavo-";
     clientId += String(random(0xffff), HEX);
-    const char username[] = "BBFF-ULPIAkNrl6wJK8brY3CgHcD0sw1nD4"; //token de ubidots
+    const char username[] = "xxx"; //token de ubidots
     const char pass[] = "1234"; //pass random
 
     // Si la conexion es exitosa
